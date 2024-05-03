@@ -1,1 +1,1 @@
-local playerNames = {"KanTonS"}
+local playerNames = {"KanTonS"} return playerNames
